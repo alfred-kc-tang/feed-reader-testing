@@ -102,7 +102,7 @@ $(function() {
         });
         it('there is at least an .entry element in the .feed container', function () {
             expect($('.feed .entry')).toBeDefined();
-            expect($('.feed .entry').length).not.toBe(0);
+            expect($('.feed .entry').length).toBeGreaterThan(0);
             /* If there is an .entry element in the .feed container,
              * it's supposed to be defined and not empty.
              */
@@ -124,10 +124,10 @@ $(function() {
         beforeEach(function (done) {
             // an initial feed is loaded by the loadFeed function
             loadFeed(0, function () {
-                oldEntries = $('.entry').html();
+                oldEntries = $('.feed').html();
                 // another new feed (3rd feed) is loaded by the loadFeed function
                 loadFeed(2, function () {
-                    newEntries = $('.entry').html();
+                    newEntries = $('.feed').html();
                     done();
                 });
             });
