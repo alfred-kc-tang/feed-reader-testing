@@ -30,6 +30,10 @@ The project contains four test suites as follows:
 6. Open the `index.html` and check the test results.
 7. You might modify the functionality in `app.js` to test against whether the tests work!
 
+**OR**
+
+1. Click on this [link](https://alfred-kctang.github.io/Udacity-FWDNanodegree-Feed-Reader-Testing-Project/) to open the live version of the page.
+
 ## Contributing
 
 This repository is the author's code for a project of Udacity Front-end Web Developer Nanodegree.
