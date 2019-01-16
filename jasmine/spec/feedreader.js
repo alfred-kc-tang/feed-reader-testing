@@ -72,13 +72,13 @@ $(function() {
           */
         it('displays when the icon is clicked and hides when clicked again', function() {
             menuIcon = $('.menu-icon-link');
-            menuIcon.trigger('click');
+            menuIcon.click();
             // simulate the click event
-            expect($('body').hasClass('menu-hidden')).toBe(false);
+            expect($('body').hasClass('menu-hidden')).not.toBe(true);
             /* The body element is expected to not have the class 'menu-hidden',
              * i.e. displays, when the menu icon is clicked
              */
-            menuIcon.trigger('click');
+            menuIcon.click();
             expect($('body').hasClass('menu-hidden')).toBe(true);
             /* The body element is expected to contain the class 'menu-hidden',
              * i.e. hidden, when the menu icon is clicked again
