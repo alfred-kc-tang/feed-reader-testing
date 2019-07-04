@@ -1,4 +1,4 @@
-# Feed Reader Testing Project
+# [Feed Reader Testing Project](https://alfred-kctang.github.io/Feed-Reader-Testing-Project/)
 
 ## Table of Contents
 
@@ -32,7 +32,7 @@ The project contains four test suites as follows:
 
 **OR**
 
-1. Click on this [link](https://alfred-kctang.github.io/Udacity-FWDNanodegree-Feed-Reader-Testing-Project/) to open the live version of the page.
+1. Click on this [link](https://alfred-kctang.github.io/Feed-Reader-Testing-Project/) to open the live version of the page.
 
 ## Contributing
 
