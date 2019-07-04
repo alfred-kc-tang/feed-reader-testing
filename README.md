@@ -37,7 +37,7 @@ The project contains four test suites as follows:
 
 ## Contributing
 
-This repository is the author's code for a project of Udacity Front-end Web Developer Nanodegree.
+This repository is the author's code for a project of Udacity's Front-End Web Developer Nanodegree.
 
 ## License
 
