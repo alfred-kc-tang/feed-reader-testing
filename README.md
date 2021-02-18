@@ -33,7 +33,7 @@ The project contains four test suites as follows:
 
 **OR**
 
-1. Click on this [link](https://alfred-kctang.github.io/Feed-Reader-Testing-Project/) to open the live version of the page.
+1. Click on this [link](https://alfred-kctang.github.io/feed-reader-testing/) to open the live version of the page.
 
 ## Contributing
 
