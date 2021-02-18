@@ -1,4 +1,4 @@
-# [Feed Reader Testing Project](https://alfred-kctang.github.io/Feed-Reader-Testing-Project/)
+# [Feed Reader Testing Project](https://alfred-kctang.github.io/feed-reader-testing/)
 
 ## Table of Contents
 
